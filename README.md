@@ -56,4 +56,11 @@ Esperamos que esta experiência tenha sido enriquecedora e que você tenha apren
 
     ![image](https://github.com/user-attachments/assets/2958d05f-276e-427c-9ab0-ed6124111fa6)
 
-3.  
+3.  A seguir foi criado o dataset dataset-1000-com-preco-promocional-e-renova 2024-7-31 2:51:58 PM.
+
+    ![image](https://github.com/user-attachments/assets/51234607-c527-4780-a3e0-71e1c7850155)
+
+4.  Sendo criado a seguir o modelo DM-1000-com-preco-promocional-e-renova 2024-7-31 2:51:58 PM.
+
+    ![image](https://github.com/user-attachments/assets/fc46fd23-5abe-41a6-b825-218209640e54)
+
