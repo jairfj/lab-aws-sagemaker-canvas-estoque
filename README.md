@@ -46,7 +46,7 @@ Antes de começar, certifique-se de ter uma conta na AWS. Se precisar de ajuda p
 
 Esperamos que esta experiência tenha sido enriquecedora e que você tenha aprendido mais sobre Machine Learning aplicado a problemas reais. Se tiver alguma dúvida, não hesite em abrir uma issue neste repositório ou entrar em contato com a equipe da DIO.
 
-### 5. Desenvolvimento
+### 5. Desenvolvimento do desafio
 
 1.  Implementei uma fonte de dados via Data Wrangler, importando de um banco MySql no AWS/RDS: database-1.cliq82g2cf8u.sa-east-1.rds.amazonaws.com.
 
