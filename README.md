@@ -48,18 +48,19 @@ Esperamos que esta experiência tenha sido enriquecedora e que você tenha apren
 
 ### 5. Desenvolvimento do desafio
 
-1.  Implementei uma fonte de dados via Data Wrangler, importando de um banco MySql no AWS/RDS: database-1.cliq82g2cf8u.sa-east-1.rds.amazonaws.com.
+1.  Implementei uma fonte de dados via Data Wrangler.
+    Importando de um banco MySql no AWS/RDS: database-1.cliq82g2cf8u.sa-east-1.rds.amazonaws.com.
 
     ![image](https://github.com/user-attachments/assets/32b33295-f126-4be6-bfb1-0c3d66e06a21)
 
-2.  Extraindo, no caso, diretamente de uma tabela específica - vendas_produtos - de um schema chamado SageMaker naquela instancia do banco.
+3.  Extraindo, no caso, diretamente de uma tabela específica - vendas_produtos - de um schema chamado SageMaker naquela instancia do banco.
     Permitindo eventualmente a implementação de uma camada ETL de extração, transformação e carga para suportar a atualização do respectivo dataset.
-
-    ![image](https://github.com/user-attachments/assets/bf8e1b39-a846-4e1c-afbd-e842f0eed020)
  
+    ![image](https://github.com/user-attachments/assets/2958d05f-276e-427c-9ab0-ed6124111fa6)
+
 4.  A seguir foi criado o dataset dataset-1000-com-preco-promocional-e-renova 2024-7-31 2:51:58 PM.
 
-    ![image](https://github.com/user-attachments/assets/2958d05f-276e-427c-9ab0-ed6124111fa6)
+    ![image](https://github.com/user-attachments/assets/bf8e1b39-a846-4e1c-afbd-e842f0eed020)
 
     *o uso do referido dataflow não foi extensivo pois recebi sucessivamente erro de limite de quotas de job atingido.
      Não tendo sido atendido até o momento a respectiva solictação de adição de quota para o respectivo serviço.
