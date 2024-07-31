@@ -60,7 +60,19 @@ Esperamos que esta experiência tenha sido enriquecedora e que você tenha apren
 
     ![image](https://github.com/user-attachments/assets/51234607-c527-4780-a3e0-71e1c7850155)
 
-4.  Sendo criado a seguir o modelo DM-1000-com-preco-promocional-e-renova 2024-7-31 2:51:58 PM.
+4.  Sendo criado a seguir o modelo DM-1000-com-preco-promocional-e-renova 2024-7-31 2:51:58 PM, em modo Quick Build.
+    Vale ressaltar os ajustes de dados para enriquecer e/ou sanear o treinamento e o modelo preditivo.
+    a. Considerar feriados no Brasil;
+    b. Zerar valores nulos;
+    c. Outros.
+
+    ![image](https://github.com/user-attachments/assets/32d7ddc4-797f-4830-b89c-c8d774267162)
+
+    ![image](https://github.com/user-attachments/assets/c18cc417-1421-456b-9154-a09b80ee0e88)
 
     ![image](https://github.com/user-attachments/assets/fc46fd23-5abe-41a6-b825-218209640e54)
 
+6.   A seguir o procedimento de geracao do modelo preditivo em modo single-prediction.
+     Exibindo respectivamente as áreas Historical Demand, P10, P50 e 90. Para uma linha espefíca PRODX0004.
+
+     ![image](https://github.com/user-attachments/assets/2e0b1eef-4d85-4bf1-9acd-70e03faf51ed)
