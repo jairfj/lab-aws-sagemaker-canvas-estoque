@@ -66,6 +66,8 @@ Esperamos que esta experiência tenha sido enriquecedora e que você tenha apren
 
        ![image](https://github.com/user-attachments/assets/59df91ab-580a-4a96-91bd-a75fc489f07b)
 
+       ![image](https://github.com/user-attachments/assets/2b6e0967-a0fa-4158-b8ab-d7a9aab4218c)
+
        ![image](https://github.com/user-attachments/assets/51234607-c527-4780-a3e0-71e1c7850155)
 
 4.  Sendo criado a seguir o modelo DM-1000-com-preco-promocional-e-renova 2024-7-31 2:51:58 PM, em modo Quick Build.
