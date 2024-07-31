@@ -45,3 +45,15 @@ Antes de começar, certifique-se de ter uma conta na AWS. Se precisar de ajuda p
 ## 🤔 Dúvidas?
 
 Esperamos que esta experiência tenha sido enriquecedora e que você tenha aprendido mais sobre Machine Learning aplicado a problemas reais. Se tiver alguma dúvida, não hesite em abrir uma issue neste repositório ou entrar em contato com a equipe da DIO.
+
+### 5. Desenvolvimento
+
+1.  Implementei uma fonte de dados via Data Wrangler, importando de um banco MySql no AWS/RDS: database-1.cliq82g2cf8u.sa-east-1.rds.amazonaws.com.
+
+    ![image](https://github.com/user-attachments/assets/32b33295-f126-4be6-bfb1-0c3d66e06a21)
+
+2.  Extraindo, no caso, diretamente de uma tabela específica - vendas_produtos - de um schema chamado SageMaker naquela instancia do banco. 
+
+    ![image](https://github.com/user-attachments/assets/2958d05f-276e-427c-9ab0-ed6124111fa6)
+
+3.  
