@@ -50,25 +50,25 @@ Esperamos que esta experiência tenha sido enriquecedora e que você tenha apren
 
 1.  Implementei uma fonte de dados via Data Wrangler.
     Importando de um banco MySql no AWS/RDS: database-1.cliq82g2cf8u.sa-east-1.rds.amazonaws.com.
-
+    
     ![image](https://github.com/user-attachments/assets/32b33295-f126-4be6-bfb1-0c3d66e06a21)
-
+    
 3.  Extraindo, no caso, diretamente de uma tabela específica - vendas_produtos - de um schema chamado SageMaker naquela instancia do banco.
     Permitindo eventualmente a implementação de uma camada ETL de extração, transformação e carga para suportar a atualização do respectivo dataset.
- 
-    ![image](https://github.com/user-attachments/assets/2958d05f-276e-427c-9ab0-ed6124111fa6)
-
-4.  A seguir foi criado o dataset dataset-1000-com-preco-promocional-e-renova 2024-7-31 2:51:58 PM.
-
+    
     ![image](https://github.com/user-attachments/assets/bf8e1b39-a846-4e1c-afbd-e842f0eed020)
-
+    
+4.  A seguir foi criado o dataset dataset-1000-com-preco-promocional-e-renova 2024-7-31 2:51:58 PM.
+    
+    ![image](https://github.com/user-attachments/assets/2958d05f-276e-427c-9ab0-ed6124111fa6)
+    
     *o uso do referido dataflow não foi extensivo pois recebi sucessivamente erro de limite de quotas de job atingido.
      Não tendo sido atendido até o momento a respectiva solictação de adição de quota para o respectivo serviço.
      O que me forçou a execução manual, com sucesso, via adição de transformação por Export, para o dataset em foco.
-
-    ![image](https://github.com/user-attachments/assets/51234607-c527-4780-a3e0-71e1c7850155)
-
-5.  Sendo criado a seguir o modelo DM-1000-com-preco-promocional-e-renova 2024-7-31 2:51:58 PM, em modo Quick Build.
+    
+     ![image](https://github.com/user-attachments/assets/51234607-c527-4780-a3e0-71e1c7850155)
+    
+6.  Sendo criado a seguir o modelo DM-1000-com-preco-promocional-e-renova 2024-7-31 2:51:58 PM, em modo Quick Build.
     Vale ressaltar os ajustes de dados para enriquecer e/ou sanear o treinamento e o modelo preditivo.
     a. Considerar feriados no Brasil;
     b. Zerar valores nulos;
@@ -80,7 +80,7 @@ Esperamos que esta experiência tenha sido enriquecedora e que você tenha apren
 
     ![image](https://github.com/user-attachments/assets/fc46fd23-5abe-41a6-b825-218209640e54)
 
-6.   A seguir o procedimento de geracao do modelo preditivo em modo single-prediction.
+7.   A seguir o procedimento de geracao do modelo preditivo em modo single-prediction.
      Exibindo respectivamente as áreas Historical Demand, P10, P50 e 90. Para uma linha espefíca PRODX0004.
 
      ![image](https://github.com/user-attachments/assets/2e0b1eef-4d85-4bf1-9acd-70e03faf51ed)
